@@ -1,5 +1,6 @@
 # SIH
-1. Ashutosh Singh
+Team WEBMASTERS_ISM
+1. Ashutosh Singh (TEAM LEADER)
 2. Shubham kumar kurrey
 3. Mejar kumar
 4. Kundan kumar kushwaha
